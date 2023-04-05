@@ -8,7 +8,8 @@ Enter the program
 ### Step 2: 
 Get the input
 ### Step 3: 
-Substitute the values in the distance formula<img width="263" alt="image" src="https://user-images.githubusercontent.com/118350045/229997662-12a7481d-50d3-48d4-a73a-6f1ac35ba708.png">
+Substitute the values in the distance formula
+<img width="263" alt="image" src="https://user-images.githubusercontent.com/118350045/229997662-12a7481d-50d3-48d4-a73a-6f1ac35ba708.png">
 ### Step 4:
 Print the result
 ### Step 5:
